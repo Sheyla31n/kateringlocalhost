@@ -1,6 +1,9 @@
 # kateringlocalhost
-aplikasi katering tugas mata kuliah Basis Data dengan Xampp localhost/phpmyadmin
+aplikasi katering tugas mata kuliah Basis Data
+
 
 Microsoft Visual Studio 2022
 Visual Basic
-Window Form 
+Window Form
+Database localhost/phpmyadmin
+bikin database sendiri ya kak :)
